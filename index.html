@@ -8,12 +8,38 @@
 			K-Indie ft. Lily
 
 		</title>
+        
+        <script>
+        
+        function enterName(){
+            
+            var name = document.getElementById("nameInput").value;
+            
+            if(name != ""){
+                
+                alert("Thank you for visiting my page, " + name + "!");
+                
+            }
+            
+            else
+                
+                alert("Please enter your name!");
+            
+        }
+        
+    </script>
 
 	</head>
 
-<body>
+<body onload="alert('Welcome to my page!');">
 
 	<H1 style="color:green;">K-Indie Adventures with Lily</H1>
+    
+    <button onclick="alert('Nice to meet you!');">Greeting alert</button>
+    
+    <input id="nameInput" type="text"/><button onclick="enterName()">Enter name</button>
+    
+    <p id="test"></p>
 
 	<H2 style="color:blue;">As of December 24, 2020,</H2>
 
