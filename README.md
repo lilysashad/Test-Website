@@ -4,8 +4,6 @@
 
 *Image from CIKI Sony Music Entertainment Korea and Seoul Soul Ground ©2019*
 
-Just an HTML file for my Coursera Intro to Web Development class
-
 **K-Indie ft. Lily** is a practice website I made with HTML, JavaScript, and CSS for my Coursera: Introduction to Web Development course.
 
 Submitted by: **Lily Deng**
