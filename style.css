@@ -1,0 +1,91 @@
+h1{
+    
+    color: #003636;
+    
+}
+
+h2{ 
+    
+    padding-top: 15px;
+    
+    color: #2b390e;
+
+}
+
+body{
+    
+    background-color: #7986af;
+}
+
+p{
+    
+    font-size: 110%;
+    
+    color: #211931;
+    
+}
+
+.endless_row{
+    
+    float:left;
+    
+    width:50%;
+    
+}
+
+.endless_row img{
+    
+    width:95%;
+    
+    border: 2px solid #483D8B;
+}
+
+#lyrics{
+    
+    padding-top: 150px;
+    
+    color:#522032;
+    
+    font-family: georgia;
+    
+    font-size:110%;
+    
+}
+
+#next{
+    
+    clear:both;
+    
+}
+
+table{
+    
+    border: 2px solid #483D8B;
+    
+    width: 60%;
+}
+
+#list1, #list2, #list3{
+    
+    padding:40px;
+    
+    align-items:center;
+}
+
+.container{
+    
+    display:flex;
+    
+    align-items:center;
+    
+}
+
+#jeeb, #ciki, #seo_actor{
+    
+    float:90px;
+    
+    width:12%;
+    
+    padding: 12px;
+    
+}
