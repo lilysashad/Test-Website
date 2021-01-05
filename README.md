@@ -32,4 +32,4 @@ Time spent: **7** hours spent in total
 
  ## Notes
 
-Will revisit and update this page for the remainder of the course
+Only modules from Weeks 2-4 had been applied to this project. Weeks 5-6 are applied to another project.
